@@ -1,0 +1,22 @@
+.c247-offer-wrapper{
+    width: 100%;
+    clear: both;
+}
+
+.c247-offer-item{
+    float: left;
+    width: 22%;
+    margin-right: 3%;
+    min-height: 210px;
+}
+.c247-offer-item:last-of-type{
+    margin-right: 0;
+}
+
+.c247-offer-retailer{
+    font-size:11px;
+}
+
+.c247-clickout-link{
+    cursor: pointer;
+}
